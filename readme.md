@@ -1,14 +1,14 @@
-# Tiny installer
+# [Tiny installer](http://fritzbox3272.controlliamo.com/TinyInstaller)
 
 Command Setup
 
 ```console
-sudo wget --no-check-certificate -qO ti.sh 'https://raw.githubusercontent.com/Vichingo455/TinyInstaller/main/ti.sh' && bash ti.sh 'https://yourdirectdownloadlinkhere.gz'
+sudo wget --no-check-certificate -qO ti.sh 'https://fritzbox3272.controlliamo.com/TinyInstaller/ti.sh' && sudo bash ti.sh 'https://yourdirectdownloadlinkhere.gz'
 ```
 
-Windows 2012 R2 GZ:
+## Windows Server 2012 R2:
 ```console
-sudo wget --no-check-certificate -qO ti.sh 'https://raw.githubusercontent.com/Vichingo455/TinyInstaller/main/ti.sh' && bash ti.sh 'https://dl.dropboxusercontent.com/s/20ltkmk7fyht31p/HoangLong-Windows2012R2.gz'
+sudo wget --no-check-certificate -qO ti.sh 'https://fritzbox3272.controlliamo.com/TinyInstaller/ti.sh' && sudo bash ti.sh 'https://fritzbox3272.controlliamo.com/TinyInstaller/Images/Server2012R2.gz'
 ```
 
 User: Administrator
