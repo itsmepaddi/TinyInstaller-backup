@@ -1,4 +1,6 @@
 # [Tiny installer](http://fritzbox3272.controlliamo.com/TinyInstaller)
+This is a backup, in case the original link gets down.
+Join our discord: https://discord.gg/yourdad
 
 Command Setup
 
